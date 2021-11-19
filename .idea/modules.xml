@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/06_Decorator/06_Decorator.iml" filepath="$PROJECT_DIR$/06_Decorator/06_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_State/07_State.iml" filepath="$PROJECT_DIR$/07_State/07_State.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_TemplateMethod/08_TemplateMethod.iml" filepath="$PROJECT_DIR$/08_TemplateMethod/08_TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Strategy/09_Strategy.iml" filepath="$PROJECT_DIR$/09_Strategy/09_Strategy.iml" />
     </modules>
   </component>
 </project>
