@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/08_TemplateMethod/08_TemplateMethod.iml" filepath="$PROJECT_DIR$/08_TemplateMethod/08_TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/09_Strategy/09_Strategy.iml" filepath="$PROJECT_DIR$/09_Strategy/09_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_ChainOfResponsibility/10_ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/10_ChainOfResponsibility/10_ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Memento/11_Memento.iml" filepath="$PROJECT_DIR$/11_Memento/11_Memento.iml" />
     </modules>
   </component>
 </project>
