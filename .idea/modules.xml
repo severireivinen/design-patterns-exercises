@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/12_Proxy/12_Proxy.iml" filepath="$PROJECT_DIR$/12_Proxy/12_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_Visitor/13_Visitor.iml" filepath="$PROJECT_DIR$/13_Visitor/13_Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/14_Builder/14_Builder.iml" filepath="$PROJECT_DIR$/14_Builder/14_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Adapter/15_Adapter.iml" filepath="$PROJECT_DIR$/15_Adapter/15_Adapter.iml" />
     </modules>
   </component>
 </project>
